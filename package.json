@@ -1,7 +1,7 @@
 {
   "name": "college-memories",
   "version": "1.0.0",
-  "homepage": "https://HackerB777.github.io/Collage-Memories",
+  "homepage": "https://github.com/HackerB777/Collage-Memories-",
   "scripts": {
     "type": "module",
     "dev": "vite",
